@@ -1,0 +1,12 @@
+PODS:
+  - libxlsxwriter (0.7.5)
+
+DEPENDENCIES:
+  - libxlsxwriter
+
+SPEC CHECKSUMS:
+  libxlsxwriter: 94a91e7f65f8c3ea4e33c20adea33eefaafd5e00
+
+PODFILE CHECKSUM: f8fba56539d085bdf9d8d15ab9847f02ec8f1481
+
+COCOAPODS: 1.2.1
